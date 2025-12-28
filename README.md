@@ -14,27 +14,21 @@ I enjoy working on **security systems, audio & signal processing, dashboards, an
 
 ---
 
-🛠 Skills & Tools (Project-Based)
+🛠 Skills & Tools
 
-Software Project Development
+• Software Project Development (Academic & Client-Based)
+• Automation Development (Workflows, Logic, Task Automation)
+• Python Programming
+• Cyber Security Fundamentals & Security-Oriented Systems
+• Real-Time System Development
+• Audio & Signal Processing
+• Computer Vision (OpenCV)
+• Data Analysis & Visualization
+• Microsoft Excel Automation (Formulas, Reports, Dashboards)
+• Microsoft Power BI (Interactive Dashboards & Insights)
+• Web Development (HTML, CSS, JavaScript)
+• Documentation & Requirement Analysis
 
-Python Programming
-
-Automation & Workflow Logic
-
-Cyber Security Fundamentals
-
-Computer Vision (OpenCV)
-
-Audio & Signal Processing
-
-Power BI (Dashboards & Reports)
-
-Microsoft Office Automation (Excel, Word)
-
-Web Development (HTML, CSS, JavaScript)
-
-Data Visualization & Analysis
 ---
 
 ## 📬 Open To
