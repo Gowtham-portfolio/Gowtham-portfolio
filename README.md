@@ -67,8 +67,8 @@ I have worked on multiple projects across:
 
 ## 📫 Contact & Profiles
 
-- Fiverr: (Add your Fiverr profile link here)
-- LinkedIn: (Add later)
-- GitHub: You’re here 🙂
+- Fiverr: 
+- LinkedIn: 
+- GitHub: 
 
 Feel free to explore the repositories and reach out for collaboration, freelance projects, or internships.
