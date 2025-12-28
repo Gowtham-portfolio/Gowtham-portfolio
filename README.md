@@ -1,74 +1,50 @@
-# Gowtham K – Software & Automation Project Developer
+# 👋 Hi, I'm Gowtham K
 
-Hi, I’m Gowtham, a Cyber Security student with a strong passion for software development, automation, and real-world project building. I work on academic and client-based projects, focusing on practical solutions, clean implementation, and proper documentation.
-
-I enjoy converting ideas and requirements into working software, dashboards, automation workflows, and web solutions.
-
----
-
-## 🔹 Skills & Tools
-
-- Software Project Development
-- Python Programming
-- Automation using n8n
-- Microsoft Office Automation (Excel, Word)
-- Power BI Dashboards & Data Visualization
-- Web Development (HTML, CSS, JavaScript, PHP – basics)
-- Project Documentation & Delivery
+🎓 Cyber Security Student | 💻 Software & Automation Project Developer  
+🔐 Security Systems • 🤖 Automation • 📊 Data & Signal Analysis
 
 ---
 
-## 🔹 Featured Projects (Highlighted)
+## 🚀 About Me
 
-### 🔐 Threat Detection System (Advanced)
-- Cyber-security focused detection system
-- Designed to identify and analyze potential threats
-- Emphasis on logic, data handling, and security concepts
+I am a cyber security student with a strong interest in **real-time systems, automation, and practical software projects**.  
+I actively build academic and client-focused projects that solve real-world problems using clean logic, automation, and analysis.
 
-### 🤖 AI Receptionist
-- Automated receptionist-style system
-- Handles basic interactions and responses
-- Designed for learning automation and AI workflows
-
-### ⏱ Habit Tracker Application
-- Productivity-focused tracking system
-- Helps users build and maintain habits
-- Clean UI and structured logic
-
-### 📊 Power BI Dashboard – Currency & Data Analysis
-- Interactive Power BI dashboard
-- Focused on data analysis and visualization
-- Built for reporting and decision-making insights
+I enjoy working on **security systems, audio & signal processing, dashboards, and intelligent applications**, and I continuously improve my skills through hands-on development.
 
 ---
 
-## 🔹 Other Project Experience
+## 🧩 Featured Projects
 
-I have worked on multiple projects across:
-- Data Science & Machine Learning
-- Academic Management Systems
-- Web Interfaces & UI Components
-- Automation Scripts
-- Analysis & Prediction Models
+### 🔐 Threat Detection System (Real-Time)
+- Live camera-based threat detection
+- Audio alerts, image & video evidence capture
+- Designed for security surveillance and monitoring  
+👉 Repo: `threat-detection-system`
 
-(Selected projects are highlighted above for clarity.)
-
----
-
-## 🔹 How I Work
-
-- Understand requirements clearly
-- Plan project structure
-- Develop step-by-step with testing
-- Provide clear documentation
-- Ensure smooth final delivery
+### 🎧 Smart Audio Signal Analyzer
+- Audio recording and noise reduction
+- Frequency filtering and accuracy analysis
+- Signal visualization using charts  
+👉 Repo: `smart-audio-signal-analyzer`
 
 ---
 
-## 📫 Contact & Profiles
+## 🛠️ Skills & Tools
 
-- Fiverr: 
-- LinkedIn: 
-- GitHub: 
+- Python  
+- Automation & Workflow Logic  
+- Signal Processing & Audio Analysis  
+- OpenCV & Computer Vision  
+- Data Visualization (Charts & Dashboards)  
+- Software Project Development  
 
-Feel free to explore the repositories and reach out for collaboration, freelance projects, or internships.
+---
+
+## 📬 Open To
+
+- Internships  
+- Freelance projects  
+- Academic & real-world collaborations  
+
+Let’s build something impactful 🚀
