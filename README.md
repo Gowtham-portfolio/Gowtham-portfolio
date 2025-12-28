@@ -14,22 +14,6 @@ I enjoy working on **security systems, audio & signal processing, dashboards, an
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔐 Threat Detection System (Real-Time)
-- Live camera-based threat detection
-- Audio alerts, image & video evidence capture
-- Designed for security surveillance and monitoring  
-👉 Repo: `threat-detection-system`
-
-### 🎧 Smart Audio Signal Analyzer
-- Audio recording and noise reduction
-- Frequency filtering and accuracy analysis
-- Signal visualization using charts  
-👉 Repo: `smart-audio-signal-analyzer`
-
----
-
 ## 🛠️ Skills & Tools
 
 - Python  
