@@ -24,8 +24,7 @@ I enjoy working on **security systems, audio & signal processing, dashboards, an
 • Audio & Signal Processing
 • Computer Vision (OpenCV)
 • Data Analysis & Visualization
-• Microsoft Excel Automation (Formulas, Reports, Dashboards)
-• Microsoft Power BI (Interactive Dashboards & Insights)
+• Microsoft Excel Automation & Power BI Dashboards
 • Web Development (HTML, CSS, JavaScript)
 • Documentation & Requirement Analysis
 
